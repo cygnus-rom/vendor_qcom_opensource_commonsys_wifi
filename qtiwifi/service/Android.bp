@@ -10,7 +10,6 @@ android_app {
     resource_dirs: ["res"],
     static_libs: ["android-support-v13",
                  "qtiwifi_manager",
-                 "vendor.qti.hardware.wifi.wificfr-V1.0-java",
                  "vendor.qti.hardware.wifi.supplicant-V2.0-java",
                  "vendor.qti.hardware.wifi.supplicant-V2.1-java",
                  "vendor.qti.hardware.wifi.supplicant-V2.2-java"
